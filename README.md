@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hokeun.LEE
-- 👀 I’m interested in android develop
-- 🌱 I’m currently learning java,kotlin,android
+- 👀 I’m interested in product management
+- 🌱 I’m currently learning ..
 
 ### ◼ RESUME 
 <!---
